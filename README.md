@@ -16,3 +16,4 @@ Google Java Style Guide
 <br> [github](https://github.com/dyd131001/project-docs/tree/init/add_templetes/docs/github): git 관련 레퍼런스 및 git 사용 요령
 <br> [project-design](https://github.com/dyd131001/project-docs/tree/init/add_templetes/docs/project-design): UML, ERD, 와이어프레임, 요구사항 정의서 등 프로젝트 설계 자료 보관
 <br> [tech-manual](https://github.com/dyd131001/project-docs/tree/init/add_templetes/docs/tech-manual): 기능별 동작 다이어그램, 사용요령 작성
+https://github.com/knu-project/project-docs
